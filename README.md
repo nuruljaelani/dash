@@ -16,4 +16,5 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 
 ## Screenshot
 
-![Screenshot_2021-02-04_11-42-06](https://user-images.githubusercontent.com/48466908/106846095-cc391d00-66de-11eb-9336-6919dbee87db.png)
+![Screenshot_2021-02-04_11-49-56](https://user-images.githubusercontent.com/48466908/106846333-4073c080-66df-11eb-819d-9c79cab28e7a.png)
+
